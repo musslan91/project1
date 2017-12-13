@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1474822548 source:c:\users\marcu\desktop\mjukvaruutvecklare inbyggda system\c\abonemang3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
